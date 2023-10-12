@@ -1,0 +1,612 @@
+﻿Region,Province,City/Municipality,Address,Name of Facility,Ownership,Institutional Character,Service Capability,Validity From,Validity Until
+REGION 1,Ilocos Sur,Narvacan,Sta. Lucia,NARVACAN HEALTH OFFICE CLINICAL LABORATORY,Government,Non-Institution based,Secondary,2/23/23,12/31/23
+REGION 1,Ilocos Sur,Burgos,Poblacion Norte,RURAL HEALTH UNIT OF BURGOS CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/17/23,12/31/23
+REGION 1,Pangasinan,Rosales,"Pine Street, Zone I",RURAL HEALTH UNIT ROSALES LABORATORY,Government,Non-Institution based,Primary,3/8/23,12/31/23
+REGION 1,Pangasinan,Sison,Poblacion Central,SISON RHU CLINICAL LABORATORY,Government,Non-Institution based,Primary,4/20/23,12/31/23
+REGION 1,Pangasinan,Urdaneta,San Vicente West,URDANETA CITY UNIVERSITY- DIAGNOSTIC & LABORATORY DEPARTMENT,Government,Non-Institution based,Secondary,6/26/23,12/31/23
+REGION 2,Cagayan,Buguey,Centro,BUGUEY MUNICIPAL HEALTH OFFICE CLINICAL LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 2,Cagayan,Tuguegarao City,"National Highway, Carig Norte,",CAGAYAN VALLEY CENTER FOR HEALTH DEVELOPMENT DIAGNOSTIC LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 2,Cagayan,Lal-lo,"P. Dupaya Street, Centro",LAL-LO RURAL HEALTH UNIT CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 2,Cagayan,Sta. Ana,"Palmera Centro,",RURAL HEALTH UNIT STA. ANA CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 2,Cagayan,Camalaniugan,Dacalla fugu,RURAL HEALTH UNIT CAMALANIUGAN CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 2,Cagayan,Lasam,Centro 1,RURAL HEALTH UNIT- LASAM,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 2,Isabela,Alicia,Magsaysay,ALICIA RURAL HEALTH UNIT LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 2,Isabela,Cauayan City,"CHO-1 Terminal, Cabaruan",CLINICAL LABORATORY DIAGNOSTIC CENTER,Government,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 2,Isabela,Ilagan City,"National Highway, Marana 1st",CITY HEALTH OFFICE II- ILAGAN,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 2,Isabela,Ilagan City,San Vicente,ILAGAN CITY HEALTH OFFICE-I,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 2,Isabela,Gamu,District 1,LOCAL GOVERNMENT UNIT- GAMU GENERAL CLINICAL LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 2,Isabela,Naguilian,Quezon,NAGUILIAN MUNICIPAL HEALTH OFFICE CLINICAL LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 2,Isabela,Ramon,Bugallon Proper,RAMON RURAL HEALTH UNIT LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 2,Isabela,Roxas,"Jose P. Rizal Street, Rizal",ROXAS RURAL HEALTH UNIT LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 2,Isabela,Burgos,San Antonino,RURAL HEALTH UNIT BURGOS CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 2,Isabela,Angadanan,centro 3,RURAL HEALTH UNIT ANGADANAN CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 2,Isabela,Cabagan,"Poblacion, Centro",RURAL HEALTH UNIT CABAGAN CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 2,Isabela,Cordon,"Almeniana Street, Magsaysay",RURAL HEALTH UNIT CORDON CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 2,Isabela,Mallig,Centro II,RURAL HEALTH UNIT MALLIG CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 2,Isabela,San Guillermo,"S. Osmeña Street, Centro 1",RURAL HEALTH UNIT SAN GUILLERMO LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 2,Isabela,Reina Mercedes,Tallungan,RURAL HEALTH UNIT REINA MERCEDES CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 2,Isabela,San Mariano,Sta. Filomena,RURAL HEALTH UNIT SAN MARIANO LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 2,Nueva Vizcaya,Solano,"National Highway, Roxas",SOLANO RURAL HEALTH UNIT WITH LYING-IN CLINIC AND LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 2,Nueva Vizcaya,Kasibu,"Magsaysay Boulevard, Municipal Hall Compound, Poblacion",KASIBU MUNICIPAL HEALTH OFFICE CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 2,Nueva Vizcaya,Bayombong,"Capitol Compound, District IV",NUEVA VIZCAYA PROVINCIAL PUBLIC HEALTH LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 2,Quirino,Diffun,"#6 Doña,Aurora Street, Andres Bonifacio",DIFFUN MUNICIPAL HEALTH OFFICE CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 2,Cagayan,,Centro Southeast,SOLANA MUNICIPAL HEALTH OFFICE,Government,Non-Institution based,Secondary,4/17/23,12/31/23
+REGION 2,Cagayan,Aparri,"Magsaysay Street, Centro 3",APARRI MUNICIPAL HEALTH CENTER- EAST CLINICAL LABORATORY,Government,Non-Institution based,Primary,4/25/23,12/31/23
+REGION 3,Nueva Ecija,Santo Domingo,"Purok I, Sagaba",RHU-I STO. DOMINGO LABORATORY,Government,Non-Institution based,Primary,4/17/23,12/31/23
+REGION 3,Bataan,Morong,"Burgos St., Poblacion",MORONG RHU,Government,Non-Institution based,Primary,3/29/23,12/31/23
+REGION 4-A,Quezon,Tayabas,"J.P RIZAL ST. BRGY. SAN DIEGO ZONE I, TAYABAS CITY, QUEZON",TAYABAS DIAGNOSTIC AND LABORATORY CENTER,Government,Non-Institution based,secondary,1/1/23,12/31/23
+REGION 4-A,Quezon,Atimonan,"Rural Health Unit, Leon Guinto Blvd. St. Brgy. Zone I Atimonan, Quezon",ATIMONAN MUNICIPAL CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 4-A,Laguna,Santa Rosa City,"Kabesang Moldes St. NIA Road, Balibago, City of Santa Rosa, Laguna",SANTA ROSA CITY HEALTH OFFICE II,Government,Non-Institution based,primary,1/1/23,12/31/23
+REGION 4-A,Rizal,Antipolo City,"#24 M. Santos St., Brgy. San Roque, Antipolo City, Rizal",ANTIPOLO CITY HEALTH OFFICE CLINICAL LABORATORY,Government,Non-Institution based,secondary,1/1/23,12/31/23
+REGION 4-A,Quezon,Mauban,"DEVERA ST., BRGY. SADSARAN, MAUBAN, QUEZON",MAUBAN MHO CLINICAL LABORATORY,Government,Non-Institution based,secondary,1/1/23,12/31/23
+REGION 4-A,Batangas,Batangas City,"P. BURGOS ST., BRGY. POBLACION 17 BATANGAS CITY",BATANGAS CITY HEALTH DIAGNOSTICS LABORATORY,Government,Non-Institution based,secondary,1/1/23,12/31/23
+REGION 4-A,Quezon,Sariaya,"Marichi Subd. POB 4, Sariaya, Quezon",SARIAYA MUNICIPAL CLINICAL LABORATORY,Government,Non-Institution based,secondary,1/1/23,12/31/23
+REGION 4-A,Batangas,Tanauan City,"CHO-Mayapis St., Poblacion III, Tanauan City, Batangas",TANAUAN CITY DRUG TESTING CENTER AND DIAGNOSTIC CENTER,Government,Non-Institution based,secondary,1/1/23,12/31/23
+REGION 4-A,Cavite,Carmona,"466 J.M. LOYOLA STREET BARANGAY 4, CARMONA, CAVITE",CARMONA MUNICIPAL HEALTH OFFICE CLINICAL LABORATORY,Government,Non-Institution based,primary,1/1/23,12/31/23
+REGION 4-A,Laguna,Siniloan,"Sitio Sinarol Halayhayin, Siniloan, Laguna",SINILOAN INFIRMARY HOSPITAL,Government,Institution-based,Primary,2/13/23,12/31/23
+REGION 4-A,Rizal,Antipolo City,"24 M. Santos St. Brgy. San Roque, Antipolo City, Rizal",ANTIPOLO CITY HEALTH OFFICE CLINICAL LABORATORY,Government,Institution-based,Secondary,1/1/23,12/31/23
+REGION 4-B,Palawan,Quezon,"National Highway, Alfonso XIII, Quezon, Palawan",QUEZON MEDICARE HOSPITAL,Government,Institution-based,Secondary,1/1/23,12/31/23
+REGION 4-B,Palawan,Roxas,"National Highway, New Barbacan, Roxas, Palawan",ROXAS MEDICARE HOSPITAL,Government,Institution-based,Secondary,1/1/23,12/31/23
+REGION 4-B,Palawan,Dumaran,"Brgy. Danleg, Dumaran, Palawan",VICE GOV. F. PONCE DE LEON MEMORIAL HOSPITAL,Government,Institution-based,Secondary,1/1/23,12/31/23
+REGION 4-B,Palawan,Rizal,"Rizal, Palawan",DR. JOSE RIZAL DISTRICT HOSPITAL,Government,Institution-based,Secondary,1/1/23,12/31/23
+REGION 4-B,Palawan,Bataraza,"Bataraza, Palawan",BATARAZA DISTRICT HOSPITAL,Government,Institution-based,Secondary,1/1/23,12/31/23
+REGION 4-B,Palawan,Roxas,"Brgy. 4, Roxas, Palawan",PALAWAN BAPTIST HOSPITAL,Government,Institution-based,Secondary,1/6/23,12/31/23
+REGION 4-B,Palawan,Coron,"Poblacion I, Coron",CORON DISTRICT HOSPITAL,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 4-B,Palawan,San Vicente,"San Vicente, Palawan",SAN VICENTE DISTRICT HOSPITAL,Government,Institution-based,Secondary,1/31/23,12/31/23
+REGION 4-B,Palawan,El Nido,"El Nido, Palawan",EL NIDO DISTRICT HOSPITAL,Government,Institution-based,Secondary,1/1/23,12/31/23
+REGION 4-B,Palawan,Cuyo,"Catadman, Cuyo, Palawan",CUYO DISTRICT HOSPITAL,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 4-B,Palawan,Dumaran,"Sitio Aranlegan, Poblacion, Dumaran",ARACELI DUMARAN DISTRICT HOSPITAL,Government,Institution-based,Secondary,1/1/23,12/31/23
+REGION 5,Camarines Sur,San Jose,"Jacob St., San Antonio, San Jose, Camarines Sur",SAN JOSE DIAGNOSTIC CENTER,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Aklan,Malay,Poblacion,MALAY MUNICIPAL HEALTH OFFICE CLINICAL LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 6,Aklan,Malay,Balabag,MALAY MUNICIPAL HEALTH OFFICE ANNEX CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Aklan,Balete,Poblacion,MIGUEL O.CALIZO MEDICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Aklan,New Washington,Poblacion,MUNICIPAL ECONOMIC ENTERPRISE DEVELOPMENT OFFICE,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Antique,Culasi,Poblacion Centro,CULASI RURAL HEALTH UNIT LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 6,Antique,Hamtic,Lapaz,HAMTIC MUNICIPAL DIAGNOSTIC LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Antique,Laua-an,Poblacion,LAUA-AN MUNICIPAL DIAGNOSTIC LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Antique,Tibiao,Poblacion,TIBIAO MUNICIPAL DIAGNOSTIC CENTER,Government,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 6,Antique,Sibalom,District II,SIBALOM MUNICIPAL DIAGNOSTIC LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Antique,Valderrama,Brgy. Ubos,VALDERAMA MUNICIPAL HEALTH MATERNITY AND DIAGNOSTIC CENTER,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Capiz,Roxas City,Inzo Arnaldo,ROXAS CITY HEALTH LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Capiz,Roxas City,Brgy. Lanot,ROXAS MEMORIAL PROVINCIAL HOSPITAL OUT-PATIENT DEPARTMENT LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Dingle,Poblacion,Dingle LGU Laboratory,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Igbaras,Brgy. I. Poblacion,IGBARAS CLINICAL LABORATORY,Government,Institution-based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Janiuay,Locsin,JANIUAY RHU CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Mina,Mina West,MINA LABORATORYAND MEDICAL CLINICA,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Pavia,Purok III,PAVIA HEALTH CENTER CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,San Joaquin,Brgy. 3 Poblacion,SAN JOAQUIN RURAL HEALTH LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Sara,Poblacion Market,SARA LGU LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Miagao,Brgy. Mat-Y,UPV-HEALTH SERVICE UNIT DIAGNOSTIC CENTER,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,President Roxas,ILOILO PROVINCIAL CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Escalante City,Balintawak,ESCALANTE CITY CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,La Carlota City,Brgy. I,LA CARLOTA CITY HEALTH OFFICE LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Pontevedra,Brgy. I,MUNICIPALITY OF PONTEVEDRA CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Murcia,Zone III,MURCIA HEALTH OFFICE CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,,Brgy. IV,VICTORIAS CITY HEALTH CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. 20,BACOLOD CITY HEALTH CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Iloilo,San Enrique,SAN ENRIQUE CLINICAL LABORATORY,Government,Non-Institution based,Secondary,6/5/23,12/31/23
+REGION 7,Cebu,Santa Fe,"Vicente Illut, Poblacion, Santa Fe, Cebu",SANTA FE RURAL HEALTH UNIT,Government,Non-Institution based,Primary,1/10/23,12/31/23
+REGION 8,Leyte,Bato,"Jacinto St., Kalanggaman, Bato, Leyte",BATO DIAGNOSTIC CENTER,Government,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 8,Leyte,Baybay City,"A. Mabini St., Brgy. Domingo Torres, Zone 4, Baybay City",BAYBAY MEDICAL DIAGNOSTIC CENTER,Government,Non-Institution based,Primary,1/13/23,12/31/23
+REGION 8,Leyte,Dulag,"Brgy. Highway, Dulag, Leyte",DEPARTMENT OF HEALTH TREATMENT AND REHABILITATION CENTER-DULAG,Government,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 8,Northern Samar,San Roque,"Brgy. Zone 2, San Roque, Northern Samar",SAN ROQUE LABORATORY SERVICES,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 9,Zamboanga del Sur,Zamboanga City,Pettit Barracks,ZAMBOANGA CITY HEALTH OFFICE CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 9,Zamboanga del Sur,Zamboanga City,Vitali,VITALI LYING- IN CLINICAL LABORATORY,Government,Non-Institution based,Primary,2/15/23,12/31/23
+REGION 9,Zamboanga del Sur,Pagadian City,"City Hall Comp., Gatas District",CITY HEALTH OFFICE CLINICAL LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 9,Zamboanga del Sur,Tambulig,Poblacion,TAMBULIG MHO CLINICAL LABORATORY,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 9,Zamboanga del Norte,Dapitan City,Adaza St.,DAPITAN CITY HEALTH OFFICE CLINICAL LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 9,Zamboanga del Norte,Sindangan,LA Roche,SINDANGAN RURAL HEALTH UNIT CLINICAL DIAGNOSTIC LAB,Government,Institution-based,Secondary,1/1/23,12/31/23
+REGION 9,Zamboanga del Norte,Municipality of Siayan,Poblacion,SIAYAN RURAL HEALTH UNIT CLINICAL DIAGNOSTIC LABORATORY,Government,Institution-based,Secondary,1/1/23,12/31/23
+REGION 9,Zamboanga del Norte,Polanco,Poblacion,POLANCO RURAL HEALTH UNIT CLINICAL LABORATORY,Government,Institution-based,Secondary,1/1/23,12/31/23
+REGION 9,Zamboanga del Sur,Zamboanga City,Sta. Maria,EDWIN ANDREWS AIR BASE HOSP CL,Government,Institution-based,Secondary,1/1/23,12/31/23
+REGION 9,Zamboanga del Sur,Zamboanga City,Quiniput,CRISTINO PARAGAS MEMORIAL HOSPITAL CLIN LAB,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 9,Zamboanga del Sur,Zamboanga City,"Westmincom, Calarian",CAMP NAVARRO GENERAL HOSPITAL CLIN LAB,Government,Institution-based,Secondary,1/1/23,12/31/23
+REGION 9,Zamboanga Sibugay,Olutanga,Poblacion,OLUTANGA MUNICIPAL HOSPITAL CLINICAL LABORATORY,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 9,Zamboanga Sibugay,Alicia,Poblacion,ALICIA DISTRICT HOSPITAL CLINICAL LABORATORY,Government,Institution-based,Primary,3/1/23,12/31/23
+REGION 9,Zamboanga Sibugay,Malangas,Candiis,MALANGAS EMERGENCY INFIRMARY,Government,Institution-based,Secondary,1/1/23,12/31/23
+REGION 9,Zamboanga Sibugay,Diplahan,Poblacion,WILFREDO C. PALMA MEMORIAL HOSP CL,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 9,Zamboanga del Sur,Labangan,Pulacan,KUTA MAYOR CESAR L. SANG-AN STATION HOSP,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 9,Zamboanga del Sur,Mahayag,Poblacion,MAHAYAG MUNICIPAL HOSP CL,Government,Institution-based,Secondary,1/1/23,12/31/23
+REGION 9,Zamboanga del Norte,Labason,Poblacion,LABASON DISTRICT HOSPITAL CL,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 9,Zamboanga del Norte,Manukan,Poblacion,TRIFON SAILE MEMORIAL HOSPITAL CL,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 9,Zamboanga del Norte,Liloy,Poblacion,LILOY INTEGRATED HEALTH DISTRICT HOSPITAL CL,Government,Institution-based,Secondary,1/1/23,12/31/23
+REGION 9,Zamboanga del Norte,Sindangan,Poblacion,SINDANGAN DISTRICT HOSPITAL CL,Government,Institution-based,Secondary,1/1/23,12/31/23
+REGION 9,Zamboanga del Norte,Piñan,Poblacion,"PIŇAN, ZAMBOANGA DEL NORTE",Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 9,Zamboanga del Norte,Sibutad,Poblacion,SIBUTAD MUNICIPAL HOSPITAL CL,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 9,Zamboanga del Norte,Siocon,Poblacion,SIOCON DISTRICT HOSPITAL CLINICAL LABORATORY,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 9,Basilan,Isabela City,Sunrise,ISABELA CITY HEALTH CLINICAL LABORATORY,Government,Non-Institution based,Primary,5/15/23,12/31/23
+REGION 10,Bukidnon,Kalilangan,"Purok 1, West Poblacion, Kalilangan, Bukidnon",BUKIDNON PROVINCIAL HOSPITAL - KALILANGAN,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 10,Bukidnon,Malitbog,"Zone 1, Poblacion, Malitbog, Bukidnon",BUKIDNON PROVINCIAL HOSPITAL - MALITBOG,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 10,Bukidnon,San Fernando,"Purok 10, Halapitan, Poblacion, San Fernando, Bukidnon",BUKIDNON PROVINCIAL HOSPITAL - SAN FERNANDO,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 10,Bukidnon,Talakag,"Brgy. 3, Talakag, Bukidnon",BUKIDNON PROVINCIAL HOSPITAL - TALAKAG,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 10,Bukidnon,Cabanglasan,"P-8, Poblacion, Cabanglasan, Bukidnon",CABANGLASAN BIRTHING HOME,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 10,Bukidnon,Maramag,"University Town, Musuan, Maramag, Bukidnon",CENTRAL MINDANAO UNIVERSITY HOSPITAL,Government,Institution-based,Secondary,3/31/23,12/31/23
+REGION 10,Bukidnon,Damulog,"P-6, Poblacion 3, Damulog, Bukidnon",DAMULOG RURAL HEALTH FAMILY PLANNING AND BIRTHING HOME,Government,Institution-based,Secondary,1/1/23,12/31/23
+REGION 10,Bukidnon,Don Carlos,"P-4,Poblacion Sur, Don Carlos, Bukidnon",DON CARLOS RURAL HEALTH UNIT & FAMILY PLANNING CENTER,Government,Institution-based,Secondary,1/1/23,12/31/23
+REGION 10,Bukidnon,Malaybalay City,"Freedom Park, Brgy. 4, Malaybalay City, Bukidnon",MALAYBALAY CITY HEALTH OFFICE LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 10,Bukidnon,Maramag,"Dionesio Micayabas St., North Poblacion, Maramag, Bukidnon",MARAMAG RHU BIRTHING HOME,Government,Institution-based,Secondary,1/1/23,12/31/23
+REGION 10,Bukidnon,Lantapan,"Purok 2, Poblacion, Lantapan, Bukidnon",MUNICIPAL HEALTH OFFICE - LANTAPAN,Government,Institution-based,Secondary,1/1/23,12/31/23
+REGION 10,Bukidnon,Quezon,"Bal.3, Poblacion, Quezon, Bukidnon",QUEZON MATERNITY CARE CENTER/ MUN. HEALTH OFFICE,Government,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 10,Bukidnon,San Fernando,"Purok 7, Halapitan, San Fernando, Bukidnon",RHU - SAN FERNANDO BIRTHING HOME,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 10,Bukidnon,Sumilao,"Purok 3, Kisolon, Sumilao, Bukidnon",RHU SUMILAO BIRTHING HOME,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 10,Bukidnon,Valencia City,"New Integrated Terminal Complex, Poblacion, Valencia City, Bukidnon",VALENCIA CHO MATERNITY CARE AND TB DOTS CENTER,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 10,Lanao del Norte,Balo-i,"East Poblacion, Balo-i, Lanao del Norte",BALO-I PROVINCIAL HOSPITAL,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 10,Lanao del Norte,Iligan City,"Gen. Aguinaldo St.,Pala-o, Iligan City",ILIGAN CITY HEALTH OFFICE CLINICAL LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 10,Lanao del Norte,Kapatagan,"Pob.,Kapatagan, Lanao del Norte",KAPATAGAN MATERNITY CLINIC,Government,Institution-based,Primary,3/6/23,12/31/23
+REGION 10,Lanao del Norte,Kauswagan,"Bagumbayan, Kauswagan, Lanao del Norte",KAUSWAGAN PROVINCIAL HOSPITAL,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 10,Lanao del Norte,Lala,"Purok 3, Lanipao, Lala, Lanao del Norte",LALA RHU MATERNITY CLINIC,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 10,Lanao del Norte,Iligan City,"Andres Bonifacio Avenue, Tibanga, Iligan City,",MSU - IIT CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 10,Lanao del Norte,Balo-i,"West Poblacion, Balo-i, Lanao del Norte",RHU - BALO-I MATERNAL CARE PACKAGE FACILITY,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 10,Lanao del Norte,,"Brgy. Maguidanao, Sultan Naga Dimaporo, Lanao del Norte",SULTAN NAGA DIMAPORO PROVINCIAL HOSPITAL,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 10,Lanao del Norte,Tubod,"M. Pepito Street., Poblacion, Tubod, Lanao del Norte",TUBOD RHU BIRTHING HOME,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 10,Misamis Oriental,Medina,"Tangan Ragot St., North Poblacion, Medina, Misamis Oriental",FIRST MISAMIS ORIENTAL GENERAL HOSPITAL ( MEDINA HOSPITAL),Government,Institution-based,Secondary,1/1/23,12/31/23
+REGION 10,Misamis Oriental,Gingoog City,"Rodriguez-Lugod Sts., Brgy.15, Gingoog City",GINGOOG CITY UNITED DIAGNOSTICS AND LABORATORIES,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 10,Misamis Oriental,Jasaan,"Rural Health Unit, Jasaan, Misamis Oriental",JASAAN CLINICAL LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 10,Misamis Oriental,Jasaan,"Lower Jasaan, Misamis Oriental",JASAAN MUNICIPAL HOSPITAL,Government,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 10,Misamis Oriental,Lugait,"Masilakon 1, Poblacion, Lugait, Misamis Oriental",LUGAIT MUNICIPAL HEALTH OFFICE,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 10,Misamis Oriental,Magsaysay,"Kakilgan St., Poblacion, Magsaysay, Misamis Oriental",MAGSAYSAY MUNICIPAL HEALTH OFFICE LYING-IN CLINIC,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 10,Misamis Oriental,Medina,"Ebarle St., North Poblacion, Medina, Misamis Oriental",MEDINA RHU LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 10,Misamis Oriental,Claveria,"Poblacion, Claveria, Misamis Oriental",MISAMIS ORIENTAL PROVINCIAL HOSPITAL - CLAVERIA,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 10,Misamis Oriental,Magsaysay,"Bliss, Cabubuhan, Magsaysay, Misamis Oriental",MISAMIS ORIENTAL PROVINCIAL HOSPITAL - MAGSAYSAY,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 10,Misamis Oriental,Opol,"Zone 4, Taboc, Opol, Misamis Oriental",OPOL MUNICIPAL HEALTH CENTER & LYING-IN CLINIC,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 10,Misamis Oriental,Alubijid,"Brgy. Lanao, Allubijid, Misamis Oriental",OWWA - MISAMIS ORIENTAL PROVINCIAL HOSPITAL - ALUBIJID,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 10,Misamis Oriental,Alubijid,"Sta.Cruz St., Poblacion, Alubijid, Misamis Oriental",RHU-ALUBIJID BIRTHING FACILITY,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 10,Misamis Oriental,Tagoloan,"Poblacion, Tagoloan, Misamis Oriental",TAGOLOAN BIRTHING HOME,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 10,Misamis Oriental,Salay,"Purok 3, Poblacion Salay, Misamis Oriental",SALAY MATERNITY/ LYING-IN AND FAMILY CARE CENTER,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 10,Misamis Oriental,Tagoloan,"Zone 12, Poblacion, Tagoloan, Misamis Oriental",ST. PAUL HOSPITAL,Government,Institution-based,Secondary,1/1/23,12/31/23
+REGION 10,Misamis Oriental,Villanueva,"Poblacion I, Villanueva, Misamis Oriental",VILLANUEVA LYING-IN,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 10,Misamis Oriental,Cagayan de Oro City,"Mabolo St., Carmen, Cagayan de Oro City",CARMEN HEALTH CENTER LYING-IN CLINIC,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 10,Misamis Oriental,Cagayan de Oro City,"Hayes St., Brgy.40, Cagayan de Oro City",CHO LYING-IN & FAMILY PLANNING CLINIC,Government,Institution-based,Secondary,1/1/23,12/31/23
+REGION 10,Misamis Oriental,Cagayan de Oro City,"12th - 30th St. Nazareth ,Cagayan de Oro City",NAZARETH HEALTH CENTER & LYING-IN CLINIC,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 10,Misamis Occidental,Jimenez,"059 Gomez St., Nacional, Jimenez, Mis.amis Occidental",JIMENEZ MEDICARE COMMUNITY HOSPITAL,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 10,Misamis Occidental,Ozamiz City,"Abanil St.Aguada,Ozamis City, Misamis occidental",OZAMIZ CITY HEALTH LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 10,Misamis Occidental,Plaridel,"Sitio Matco, Brgy.Panalsalan, Plaridel, Misamis Occidental",PLARIDEL COMMUNITY HOSPITAL LABORATORY,Government,Institution-based,Secondary,1/1/23,12/31/23
+REGION 10,Misamis Occidental,Tudela,"Centro Napu, Tudela Misamis Occidental",TUDELA MUNICIPAL HOSPITAL,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 10,Camiguin,Catarman,"Poblacion, Catarman, Camiguin",CATARMAN DISTRICT HOSPITAL,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 11,Davao del Norte,Sto. Tomas,"Fd. Rd.3, National Highway,",STO. TOMAS CLINICAL LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+,,,"Tibal-og, Sto. Tomas, Davao del Norte",,,,,,
+REGION 11,Davao de Oro,Maragusan,"Corner Rizal and Gumamela Streets, Poblacion",MARAGUSAN DIAGNOSTIC AND LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+,,,"Maragusan, Davao de Oro",CENTER,,,,,
+REGION 11,Davao de Oro,Pantukan,"Townsite, Kingking, Pantukan,",MHO -PANTUKAN CLINICAL LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+,,,Davao de Oro,,,,,,
+REGION 11,Davao del Norte,New Corella,"Purok 5, Poblacion New Corella,",RHU NEW CORELLA LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+,,,Davao del Norte,,,,,,
+REGION 11,Davao de Oro,Nabunturan,"Purok 9, Bugas St., Poblacion Nabunturan,",RHU NABUNTURAN CLINICAL LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+,,,Davao de Oro,,,,,,
+REGION 11,Davao Oriental,Banaybanay,"Zapanta Street, Poblacion, District II,",BANAYBANAY CLINICAL LABORATORY - MUNICIPAL HEALTH OFFICE,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+,,,"Banaybanay, Davao Oriental",,,,,,
+REGION 11,Davao de Oro,Compostela,"Dagohoy Street, Purok 2, Poblacion Compostela,",COMPOSTELA MUNICIPAL HEALTH OFFICE,Government,Non-Institution based,Primary,1/1/23,12/31/23
+,,,Davao de Oro,CLINICAL LABORATORY,,,,,
+REGION 11,Davao Oriental,Mati City,"Madang, Barangay Central, City of Mati, Davao Oriental",CITY HEALTH OFFICE OF MATI,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 11,Davao de Oro,Montevista,"Purok 7, San Jose, Montevista,",RHU MONTEVISTA CLINICAL LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+,,,Davao de Oro,,,,,,
+REGION 11,Davao City,Davao City,"Corner Bangoy & Lapu-Lapu Sts.,",AGDAO HEALTH CENTER,Government,Non-Institution based,Primary,1/1/23,12/31/23
+,,,"Agdao, Davao City",,,,,,
+REGION 11,Davao City,Davao City,"Purok 2 Malagos, Baguio District, Davao City",BAGUIO HEALTH CENTER,Government,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 11,Davao City,Davao City,"NHA Subdivision, Buhangin, Buhangin District, Davao City",BUHANGIN HEALTH CENTER,Government,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 11,Davao City,Davao City,"Km. 23 Davao-Agusan Road, Bunawan Proper,",BUNAWAN HEALTH CENTER,Government,Non-Institution based,Primary,1/1/23,12/31/23
+,,,"Bunawan District, Davao City",,,,,,
+REGION 11,Davao City,Davao City,"Purok 34, Aurora Street, Calinan Poblacion,",CALINAN HEALTH CENTER,Government,Non-Institution based,Primary,1/1/23,12/31/23
+,,,"Calinan District, Davao City",,,,,,
+REGION 11,Davao City,Davao City,"Pichon St., Barangay 39-D, Davao City",DAVAO CITY HEALTH LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 11,Davao City,Davao City,"Jacinto St., Brgy. 32-D, District D, Davao City",JACINTO HEALTH CENTER,Government,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 11,Davao City,Davao City,"Sitio Marahan, Marilog Proper,",MARILOG HEALTH CENTER,Government,Non-Institution based,Primary,1/1/23,12/31/23
+,,,"Marilog, Davao City",,,,,,
+REGION 11,Davao City,Davao City,"Quezon Boulevard, Barangay 23-C",MINI-FOREST HEALTH CENTER,Government,Non-Institution based,Primary,1/1/23,12/31/23
+,,,"District C, Davao City",,,,,,
+REGION 11,Davao City,Davao City,"Gumamela St., Mintal, Tugbok",MINTAL HEALTH CENTER,Government,Non-Institution based,Primary,1/1/23,12/31/23
+,,,"District, Davao City",,,,,,
+REGION 11,Davao City,Davao City,GSIS Heights cor Venus and Libra Sts.,MATINA CROSSING HEALTH CENTER,Government,Non-Institution based,Primary,1/1/23,12/31/23
+,,,"Matina, Brgy. 74-A, Davao City",(TALOMO CENTRAL),,,,,
+REGION 11,Davao City,Davao City,"Daang Patnubay St., SIR Phase 1,",SIR HEALTH CENTER (TALOMO NORTH),Government,Non-Institution based,Primary,1/1/23,12/31/23
+,,,"Brgy. 76-A, Bucana, Davao City",,,,,,
+REGION 11,Davao City,Davao City,"Block 1 Libby Road, Puan, Talomo Proper,",PUAN HEALTH CENTER,Government,Non-Institution based,Primary,1/1/23,12/31/23
+,,,"Talomo District, Davao City",(TALOMO SOUTH),,,,,
+REGION 11,Davao City,Davao City,"Brgy. Malabog, Paquibato District,",PAQUIBATO HEALTH CENTER,Government,Non-Institution based,Primary,1/1/23,12/31/23
+,,,Davao City,,,,,,
+REGION 11,Davao City,Davao City,"Paquibato Proper, Paguibato District,",PAQUIBATO DISTRICT HOSPITAL - LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+,,,Davao City,,,,,,
+REGION 11,Davao City,Davao City,"Km. 9 Paradise Road, Sasa District,",SASA HEALTH CENTER,Government,Non-Institution based,Primary,1/1/23,12/31/23
+,,,Davao City,,,,,,
+REGION 11,Davao City,Davao City,"Rasay Street, Toril Poblacion,",TORIL HEALTH CENTER,Government,Non-Institution based,Primary,1/1/23,12/31/23
+,,,"Toril District, Davao City",,,,,,
+REGION 11,Davao City,Davao City,Corner E. Quirino - Camus (Pelayo) Sts.,TOMAS CLAUDIO HEALTH CENTER,Government,Non-Institution based,Primary,1/1/23,12/31/23
+,,,Davao City,,,,,,
+REGION 11,Davao del Norte,Panabo City,"City Health Office, Quezon St., New Pandan,",PANABO CITY LABORATORY OFFICE,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+,,,"Panabo City, Davao del Norte",,,,,,
+REGION 11,Davao del Norte,Braulio E. Dujali,"Poblacion Braulio E. Dujali, Davao del Norte",RHU BRAULIO E. DUJALI CLINICAL LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 11,Davao City,Davao City,"Jacinto Street, Barangay 31-D, Davao City",REPRODUCTIVE HEALTH AND WELLNESS CENTER,Government,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 11,Davao de Oro,Laak,"Purok 3, Poblacion Laak,",LAAK RURAL HEALTH UNIT,Government,Non-Institution based,Primary,1/1/23,12/31/23
+,,,Davao de Oro,CLINICAL LABORATORY,,,,,
+REGION 11,Davao de Oro,Monkayo,"Salazar St., Poblacion Monkayo,",MONKAYO RHU AND INFIRMARY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+,,,Davao de Oro,,,,,,
+REGION 11,Davao del Sur,Sta. Cruz,"Ciriaco Godoy St., Pob. Brgy. Zone III,",STA. CRUZ HEALTH CLINICAL LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+,,,Poblacion Sta. Cruz. Davao del Sur,,,,,,
+REGION 11,Davao City,Davao City,"Brgy. Malagos, Baguio District, Davao City",DRUG ABUSE TREATMENT AND REHABILITATION,Government,Non-Institution based,Primary,1/1/23,12/31/23
+,,,,CENTER - DAVAO,,,,,
+REGION 11,Davao de Oro,Mawab,"Purok 6, Poblacion II, Mawab",RHU-MAWAB CLINICAL LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+,,,Davao de Oro,,,,,,
+REGION 11,Davao de Oro,New Bataan,"Purok 1, C.M. Recto St., Cabinuangan,",RHU NEW BATAAN CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+,,,"New Bataan, Davao de Oro",,,,,,
+REGION 11,Davao Oriental,Tarragona,"Brgy. Central Tarragona, Davao Oriental",LABORATORYO NG TARRAGONA,Government,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 11,Davao del Norte,Carmen,"Municipal Avenue, Ising, Carmen,",CARMEN MUNICIPAL HEALTH OFFICE LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+,,,Davao del Norte,,,,,,
+REGION 11,Davao Oriental,Lupon,"Municipal Avenue, Poblacion II, Lupon",LUPON CLINICAL LABORATORY -,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+,,,Davao Oriental,MUNICIPAL HEALTH OFFICE,,,,,
+REGION 11,Davao Oriental,Gov. Generoso,"San Jose St., Poblacion Governor Generoso,",GOVERNOR GENEROSO CLINICAL LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+,,,Davao Oriental,MUNICIPAL HEALTH OFFICE,,,,,
+REGION 11,Davao del Norte,Tagum City,"Mabini Street, Magugpo South,",CITY HEALTH OFFICE CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+,,,"Tagum City, Davao del Norte",,,,,,
+REGION 11,Davao City,Davao City,"Gloriosa St. El Rio Village, Phase 4B,",EL RIO HEALTH CENTER,Government,Non-Institution based,Primary,1/1/23,12/31/23
+,,,"Brgy. 19-B, Davao City",,,,,,
+REGION 12,North Cotabato,President Roxas,"PUROK 13, POBLACION II",PRESIDENT ROXAS CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 12,Sultan Kudarat,Bagumbayan,"PRK. LAUREL, POBLACION",RHU BAGUMBAYAN LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 12,North Cotabato,M'lang,"RIZAL ST., POBLACION B",RHU M'LANG CLINICAL LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 12,Sultan Kudarat,President Quirino,"PRK. SAMPAGUITA, LGU COMPOUND, BRGY. POBLACION",RHU PRESIDENT QUIRINO CLINICAL LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 12,Sultan Kudarat,Isulan,"ALI-AKANG STREET, KALAWAG III",ISULAN RHU CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 12,Sarangani,Maitum,"F. GACAL ST., MALALAG",MAITUM RHU CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 12,South Cotabato,Koronadal City,"ALUNAN AVENUE, BRGY. ZONE IV,",KORONADAL CITY HEALTH CLINICAL LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 12,South Cotabato,,"PUROK 8, POBLACION, TUPI",TUPI RURAL HEALTH LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 12,Sultan Kudarat,Columbio,"ITABLE ST., POBLACION",RHU COLUMBIO CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 12,Sultan Kudarat,Lambayong,POBLACION,LAMBAYONG RHU CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 12,South Cotabato,,"CORNER GARCIA HECHANOVA STREETS MUNICIPAL COMPOUND , PUROK KATIPUNAN, BRGY. REYES, BANGA",RURAL HEALTH UNIT OF BANGA CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 12,Sultan Kudarat,Tacurong City,"CORNER BONIFACIO ST., ROXAS AVENUE",TACURONG CITY HEALTH OFFICE CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 12,South Cotabato,Santo Niño,"STO. NIÑO, SOUTH COTABATO",RHU STO. NIÑO CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 12,Sarangani,Kiamba,"POBLACION, KIAMBA",RURAL HEALTH UNIT OF KIAMBA CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 12,South Cotabato,,"PRK. MAHARLIKA, POBLACION, TANTANGAN",TANTANGAN RURAL HEALTH UNIT CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 12,South Cotabato,,"PUROK TANCO, POBLACION, T'BOLI",T'BOLI RURAL HEALTH UNIT CLINICAL LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 12,South Cotabato,Polomolok,"PIONEER AVE., POBLACION, POLOMOLOK",POLOMOLOK RURAL HEALTH UNIT CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 12,South Cotabato,Lake Sebu,"PUROK ROSAS, POBLACION",RHU - LAKE SEBU LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 12,Sultan Kudarat,Esperanza,"POBLACION, ESPERANZA",RHU ESPERANZA CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 12,Sultan Kudarat,Lebak,"NARRA I, POBLACION I, LEBAK",RHU LEBAK CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 13,Agusan del Norte,Cabadbaran City,Tolosa,CABADBARAN DISTRICT HOSPITAL,Government,Institution-based,Secondary,1/1/23,12/31/23
+REGION 13,Agusan del Norte,Jabonga,"P-1 A, Poblacion",JABONGA MUNICIPAL HOSPITAL,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 13,Agusan del Norte,Kitcharao,,KITCHARAO DISTRICT HOSPITAL,Government,Institution-based,Secondary,1/1/23,12/31/23
+REGION 13,Agusan del Norte,Las Nieves,"P-1, Brgy. Poblacion",LAS NIEVES MUNICIPAL HOSPITAL,Government,Institution-based,Primary,1/1/23,12/31/23
+REGION 13,Agusan del Norte,Nasipit,"District 6, Kinabjangan",NASIPIT DISTRICT HOSPITAL,Government,Institution-based,Secondary,1/1/23,12/31/23
+REGION 13,Surigao del Norte,Surigao City,"Parrucho St., City Hall Comp.",SURIGAO CITY HEALTH OFFICE,Government,Non-Institution based,Secondary,1/25/23,12/31/23
+REGION 13,Agusan del Sur,Bayugan City,"Kasoy St., Poblacion",BAYUGAN COMMUNITY HOSPITAL,Government,Institution-based,Secondary,12/7/22,12/31/23
+REGION 13,Agusan del Sur,San Francisco,"P-11, Brgy. Alegria","DOH-DRUG ABUSE TREATMENT & REHABILITATION CENTER, AGUSAN DEL SUR",Government,Non-Institution based,Primary,12/24/22,12/31/23
+REGION 13,Agusan del Sur,Esperanza,"P-11, Poblacion",ESPERANZA MEDICARE COMMUNITY HOSPITAL,Government,Institution-based,Secondary,12/15/22,12/31/23
+REGION 13,Agusan del Sur,La Paz,"P-4, Poblacion",LA PAZ MUNICIPAL HOSPITAL,Government,Institution-based,Primary,12/12/22,12/31/23
+REGION 13,Agusan del Sur,Loreto,"Casal St., Poblacion",LORETO MUNICIPAL HOSPITAL,Government,Institution-based,Secondary,12/15/22,12/31/23
+REGION 13,Surigao del Sur,San Miguel,"P-7, Tina",SAN MIGUEL COMMUNITY HOSPITAL,Government,Institution-based,Primary,2/12/23,12/31/23
+REGION 13,Surigao del Sur,Carrascal,"Cultura St., Baybay",CARRASCAL RURAL HELATH UNIT LABORATORY,Government,Institution-based,Secondary,12/6/22,12/31/23
+REGION 13,Surigao del Sur,Cortes,,CORTES MUNICIPAL HOSPITAL,Government,Institution-based,Primary,1/31/23,12/31/23
+REGION 13,Surigao del Norte,Claver,"Purok 6, Garcia St., Tayaga",CLAVER MHO MEDICAL LABORATORY,Government,Non-Institution based,Primary,5/4/23,12/31/23
+CORDILLERA,Abra,Bucay,Siblong,BUCAY MUNICIPAL HOSPITAL,Government,Institution-based,Primary,1/1/23,12/31/23
+CORDILLERA,Apayao,Calanasan,Poblacion,APAYAO DISTRICT HOSPITAL,Government,Institution-based,Secondary,1/1/23,12/31/23
+CORDILLERA,Apayao,Flora,Bagutong,FLORA DISTRICT HOSPITAL,Government,Institution-based,Secondary,1/1/23,12/31/23
+CORDILLERA,Apayao,Kabugao,Poblacion,APAYAO PROVINCIAL HOSPITAL,Government,Institution-based,Primary,1/1/23,12/31/23
+CORDILLERA,Apayao,Pudtol,Poblacion,AMMA JADSAC DISTRICT HOSPITAL,Government,Institution-based,Secondary,1/1/23,12/31/23
+CORDILLERA,Apayao,Santa Marcela,San Carlos,STA. MARCELA DISTRICT HOSPITAL,Government,Institution-based,Secondary,1/1/23,12/31/23
+CORDILLERA,,Baguio City,Fort Del Pilar,FORT DEL PILAR STATION HOSPITAL,Government,Institution-based,Secondary,1/1/23,12/31/23
+CORDILLERA,,Baguio City,"Teodora Alonzo Street, Baguio City",HEALTH SERVICES OFFICE - PUBLIC HEALTH LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+CORDILLERA,Benguet,La Trinidad,La Trinidad,BENGUET GENERAL HOSPITAL,Government,Institution-based,Tertiary,,
+CORDILLERA,Benguet,Buguias,"Abatan, Buguias",NORTHERN BENGUET DISTRICT HOSPITAL,Government,Institution-based,Secondary,1/1/23,12/31/23
+CORDILLERA,Benguet,Itogon,Itogon,ITOGON DISTRICT HOSPITAL,Government,Institution-based,Secondary,1/1/23,12/31/23
+CORDILLERA,Benguet,Kapangan,Kapangan,KAPANGAN DISTRICT HOSPITAL,Government,Institution-based,Secondary,1/1/23,12/31/23
+CORDILLERA,Benguet,Mankayan,"Poblacion, Mankayan, Benguet",MANKAYAN RHU LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+CORDILLERA,Ifugao,Aguinaldo,"Ngawngaw, Talite",AGUINALDO PEOPLE'S HOSPITAL,Government,Institution-based,Secondary,1/1/23,12/31/23
+CORDILLERA,Ifugao,Hungduan,"Mabak, Hapao",HUNGDUAN MUNICIPAL HOSPITAL,Government,Institution-based,Secondary,1/1/23,12/31/23
+CORDILLERA,Ifugao,Mayoyao,"Acacoy St., Bato-alatbang",MAYOYAO DISTRICT HOSPITAL,Government,Institution-based,Secondary,1/1/23,12/31/23
+CORDILLERA,Ifugao,Tinoc,"Pantal Street, Impugong, Tinoc",TINOC DISTRICT HOSPITAL,Government,Institution-based,Secondary,1/1/23,12/31/23
+CORDILLERA,Kalinga,Rizal,Babalag West,JUAN M. DUYAN MEMORIAL DISTRICT HOSPITAL,Government,Institution-based,Primary,1/1/23,12/31/23
+CORDILLERA,Kalinga,Lubuagan,"Bulanao, Tabuk City",KALINGA DISTRICT HOSPITAL,Government,Institution-based,Primary,1/1/23,12/31/23
+CORDILLERA,Kalinga,Pinukpuk,Pinukpuk Junction,PINUKPUK DISTRICT HOSPITAL,Government,Institution-based,Primary,1/1/23,12/31/23
+CORDILLERA,Kalinga,Balbalan,,WESTERN KALINGA DISTRICT HOSPITAL,Government,Institution-based,Primary,1/1/23,12/31/23
+CORDILLERA,Kalinga,,"Agbannawag, Tabuk City",KALINGA GABRIELA MIJA KIM MEDICAL CENTER,Government,Institution-based,Primary,1/1/23,12/31/23
+CORDILLERA,Mountain Province,Barlig,,BARLIG DISTRICT HOSPITAL,Government,Institution-based,Primary,1/1/23,12/31/23
+CORDILLERA,Mountain Province,Natonin,Poblacion,ANASTACIA RAFAEL SAGEL MEMORIAL HOSPITAL,Government,Institution-based,Primary,1/1/23,12/31/23
+CORDILLERA,Mountain Province,Bontoc,"Poblacion, Bontoc",MUNICIPAL HEALTH OFFICE- LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+BARMM,Maguindao del Sur,Datu Piang,Datu Piang,ABPI-MEDICAL LYING IN CLINIC AND HOSPITAL,Government,Institution-based,Primary,,
+NCR,Metro Manila,Makati City,"1126 E. Rodriguez, Bangkal, Makati City",BANGKAL SATELLITE LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+NCR,Metro Manila,Taguig City,"Ipil-Ipil St., Brgy. North Signal, Taguig City",NORTH SIGNAL CLINICAL LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+NCR,Metro Manila,Taguig City,"T and D Village cor. Col. P. Cruz St., Brgy. Tuktukan, Taguig City",TAGUIG CLINICAL LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+NCR,Metro Manila,Makati City,"7/F Makati City Hall New Bldg., JP Rizal St., Poblacion, Makati City",MAKATI HEALTH DEPARTMENT LABORATORY AND SOCIAL HYGIENE CLINIC,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+NCR,Metro Manila,Marikina City,"Shoe Ave., Sto. Niño, Marikina City",MARIKINA CITY PUBLIC HEALTH LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+NCR,Metro Manila,Taguig City,"01 Tomasa Ave., Tomasa Subd., Ususan, Taguig City",USUSAN DIAGNOSTIC LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+NCR,Metro Manila,Quezon City,"T. Gener cor. K-5th, Brgy. Kamuning, Quezon City",KAMUNING CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+NCR,Metro Manila,Quezon City,"Ermin Garcia St., Brgy. Pinagkaisahan, Cubao, Quezon City",KLINIKA BERNARDO CLINICAL LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+NCR,Metro Manila,Quezon City,"Road 11 cor. Road 12, Brgy. Bahay Toro, Project 8, Quezon City",TORO HILLS CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+NCR,Metro Manila,Quezon City,"309 P. Tuazon Blvd., Brgy. Bagumbuhay, Quezon City",PROJECT 4 CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+NCR,Metro Manila,Quezon City,"39 Bansalangin St., Proj. 7, Veterans, Quezon City",KLINIKA PROJECT 7 LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+NCR,Metro Manila,Quezon City,"161 Kaingin Road, Apolonio Samson, Quezon City",APOLONIO SAMSON CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+NCR,Metro Manila,Quezon City,"Kalayaan Avenue, Quezon City Hall Complex, Quezon City",QUEZON CITY HEALTH DEPARTMENT CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+NCR,Metro Manila,Quezon City,"Katuparan St., Commonwealth, Quezon City",COMMONWEALTH CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+NCR,Metro Manila,Quezon City,"Barangay Compound, Dahlia Ave., Brgy. Greater Fairview, Fairview, Quezon City",FAIRVIEW CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+NCR,Metro Manila,Mandaluyong City,"Mandaluyong City Hall Complex, Maysilo St., Mandaluyong City",MANDALUYONG CITY HEALTH LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+NCR,Metro Manila,Makati City,"2094 E. Pascua St., Brgy. Kasilawan, Makati City",KASILAWAN SATELLITE LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+NCR,Metro Manila,Makati City,"G/F Barangay Hall, Anahaw St., Brgy. Comembo, Makati City",COMEMBO SATELLITE LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+NCR,Metro Manila,Makati City,"3/F East Rembo Multi-Purpose Bldg., 23rd Ave., Brgy. East Rembo, Makati City",EAST REMBO SATELLITE LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+NCR,Metro Manila,Makati City,"502 Cebu St., Brgy. Pitogo, Makati City",PITOGO SATELLITE LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+NCR,Metro Manila,Makati City,"4513 Casino St., Palanan, Makati City",PALANAN SATELLITE LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+NCR,Metro Manila,Quezon City,"North Ave. cor. Science Road, Quezon City",OCCUPATIONAL SAFETY AND HEALTH CENTER,Government,Non-Institution based,Primary,1/1/23,12/31/23
+NCR,Metro Manila,Pasig City,"Ilaya Compound, Evangelista Ave., Brgy. Santolan, Pasig City",SANTOLAN SUPER HEALTH CENTER,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+NCR,Metro Manila,Pasig City,"Elias St., Centennial II-B, Nagpayong, Pinagbuhatan, Pasig City",NAGPAYONG SUPER HEALTH CENTER,Government,Non-Institution based,Primary,1/1/23,12/31/23
+NCR,Metro Manila,Pasig City,"Pasig City Hall Compound, Market Avenue, San Nicolas, Pasig City",CHAMP CLINICAL LABORATORY,Government,Non-Institution based,Primary,1/1/23,12/31/23
+NCR,Metro Manila,Pasig City,"Dr. Garcia St. cor. Lopez Jaena, Brgy. Sumilang, Pasig City",SUMILANG SUPER HEALTH CENTER,Government,Non-Institution based,Primary,1/1/23,12/31/23
+NCR,Metro Manila,Pasig City,"5/F Pasig City Hall, Caruncho Ave. San Nicolas, Pasig City",PASIG CITY CLINICAL LABORATORY,Government,Non-Institution based,Secondary,1/1/23,12/31/23
+NCR,Metro Manila,Pasig City,"Victorio Ignacio Blvd., East Bank Road, Manggahan, Pasig City",MANGGAHAN SUPER HEALTH CENTER,Government,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 6,Aklan,Ibajay,Poblacion,ARMIZA CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Aklan,Ibajay,Agbago,BIOFERA MEDICAL DIAGNOSTIC CLINIC,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Aklan,Malay,Balabag,"BORACAY ALERT MEDICAL CLINIC AND DIAGNOSTIC, INC.",Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Aklan,Kalibo,Poblacion,LABCARE LABORATORY AND DRUG TESTING CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Aklan,Malay,Balabag,MEDEXPRESS MEDICAL AND DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Aklan,Kalibo,Poblacion,MEDWAY POLYCLINIC,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Aklan,Kalibo,Poblacion,MMG-AKLAN SPECIALTY CLINIC,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Aklan,Malay,Kanyugan,MRD LABORATORYAND DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Aklan,Malay,Balabag,SCANDI MEDICAL CLINIC AND DIAGNOSTIC CENTER,Private,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 6,Aklan,Altavas,Poblacion,STO. NIÑO MEDICAL AND LABORATORY SERVICES,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Aklan,Kalibo,Poblacion,SUMMI DUCIS DIAGNOSTICA CORPORATION,Private,Non-Institution based,Tertiary,1/1/23,12/31/23
+REGION 6,Aklan,Malay,Balabag,TJMC MEDICAL AND DIAGNOSTIC CENTER,Private,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 6,Aklan,Malay,Balabag,"VICENTE-ISABEL MULTISPECIALTY CLINIC AND DIAGNOSTIC CENTER, INC.",Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Antique,Culasi,Centro Poblacion,ANDRES CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Antique,San Jose de Buenavista,Atabay,ANTIQUE MEDICWORLD CLINICALLABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Antique,San Jose de Buenavista,Atabay,ANTIQUE PRIMEHEALTH SPECIALTY CLINICS AND DIAGNOSTIC CENTER CORPORATION,Private,Non-Institution based,Secondary,1/20/23,12/31/23
+REGION 6,Antique,Barbaza,Cubay,BARBAZA DIAGNOSTIC LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Antique,Patnongon,Poblacion,BIOFERA MEDICAL DIAGNOSTIC CLINIC,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Antique,Dao,Poblacion Sur,BIOFERA MEDICAL DIAGNOSTIC CLINIC,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Antique,San Jose de Buenavista,Atabay,CLINICA MOLINA SPECIALTY CLINIC AND DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Antique,San Jose de Buenavista,Atabay,HEALTH AND ALLIED SERVICES DIAGNOSTIC CENTER & CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Antique,Bugasong,Ilaures,LABCARE DIAGNOSTIC LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Antique,Bugasong,Ilaya,MEDICHEALTH DIAGNOSTIC LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Antique,San Jose de Buenavista,Atabay,MEDICUS DIAGNOSTIC CENTER AND MEDICAL CLINICS,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Antique,Sibalom,District II,MEDICLAB DIAGNOSTIC,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Antique,San Jose de Buenavista,Brgy. 7,MEDICPRO DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Capiz,Dao,Balucuan,BIOFERA MEDICAL DIAGNOSTIC CLINIC,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Capiz,Roxas City,Lawaan,BIOFERA MEDICAL DIAGNOSTIC CLINIC,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Capiz,Dumalag,Poblacion,BIO1ST MEDICAL CLINIC AND LABORATORY,Private,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 6,Capiz,Cuartero,Poblacion Ilaya,"CUARTERO MEDICAL AND DIAGNOSTIC CENTER, INC.",Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Capiz,Mambusao,Poblacion Tabuc,LHN MEDICAL CORP.,Private,Non-Institution based,Secondary,3/14/23,12/31/23
+REGION 6,Capiz,Tapaz,Poblacion,M.D DOCTORS CLINICAL LABORATORY,Private,Non-Institution based,Secondary,3/1/23,12/31/23
+REGION 6,Capiz,Roxas City,Brgy. VI,MEDICAL MISSION GROUP HOSP. & HEALTH SERVICES COOPERATIVE OF ROXAS CITY AND CAPIZ,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Capiz,Roxas City,Brgy. VI,MEDICUS DIAGNOSTIC CENTER AND MEDICAL CLINICS,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Capiz,Sigma,Poblacion Sur,MEDICUS DIAGNOSTIC CENTER- SIGMA,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Capiz,Dumarao,Poblacion Ilaya,MEDICUS DIAGNOSTIC CENTER,Private,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 6,Capiz,Roxas City,Brgy. VIII,MLCT LABORATORY AND CLINICS,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Capiz,Pontevedra,Brgy. Tacas,PERPETUAL HELP CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Capiz,Pilar,Poblacion,PILAR DIAGNOSTIC CENTER LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Capiz,President Roxas,Poblacion,SAN JOSE OBRERO CLINICS AND LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Capiz,Panitan,Poblacion Ilawod,ST. ALBERTUS MAGNUS MEDICAL CLINIC AND LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Capiz,Roxas City,Brgy. Tanque,ST. LOUISE DE MARILLAC,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Capiz,Tapaz,Poblacion Ilaya,STARLAB DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Capiz,President Roxas,Poblacion,TA-AY MEDICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Capiz,Maayon,Poblacion Tabuc,4G DIAGNOSTIC LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Guimaras,Buenavista,NewPoblacion,"BUENA CLINIC, PHARMACY AND LABORATORY",Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Guimaras,Jordan,San Miguel,CENTRI CLINICALLABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Guimaras,Nueva Valencia,Poblacion,CENTRI CLINICALLABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Guimaras,Buenavista,NewPoblacion,CENTRIHEALTH LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Guimaras,Jordan,San Miguel,JMB LABORATORY & DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Guimaras,Nueva Valencia,Concordia Sur,JMB LABORATORY & DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,4/14/23,12/31/23
+REGION 6,Guimaras,San Lorenzo,Cabano,JMB LABORATORY & DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Guimaras,Buenavista,NewPoblacion,HEALTH DIAGNOSTIC LABORATORY CO.,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Guimaras,Jordan,NewPoblacion,ISLAND HEALTH DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Guimaras,Buenavista,NewPoblacion,VILLAREAL MEDICAL CLINIC,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Zarraga,Jalaaud Norte,ANDREW AND ALEX CLINICAL DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Barotac Nuevo,Ilaud Poblacion,BEREZO MEDICAL CLINIC AND DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,New Lucena,Poblacion,BIOFERA MEDICAL DIAGNOSTIC CLINIC,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,San Joaquin,Lawigan,BIOFERA MEDICAL DIAGNOSTIC CLINIC,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Alimodian,Poblacion,BIOSURE DIAGOSTICCENTER INC.,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Leon,Poblacion,CAMIÑA MEDICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Calinog,Poblacion Rizal Ilawod,CASTIGADOR MEDICAL CLINIC AND LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Maasin,THTF Poblacion,CEMP DIAGNOSTIC LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Barotac Nuevo,Poblacion Ilaud,CLINIQU MEDICAL AND DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,City of Passi,Poblacion Ilawod,CONFLUENCE MEDICALLABORATORY AND DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Dumangas,Basa Mabini-Bonifacio,DATOON MEDICAL AND DENTAL CLINICS AND DIAGNOSTIC ABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Tigbauan,Brgy. 6,DIERON MEDICAL CLINIC AND LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Sara,Anoring,DOCTECH CLINICAL DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Dingle,Poblacion,DR. ESTER FE L. AGUILLON-DABUCCO HEALTH SERVICES,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Estancia,Poblacion Zone II,E.L.S.A DIAGNOSTIC LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Alimodian,Poblacion,EXELCARE DIAGNOSTIC LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Pavia,Jibao-an,FIRSTLAB CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,City of Passi,Poblacion Olawod,FRONTHUB MEDILAB AAND CLINICS,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Oton,Poblacion South,FARMACIA HINOSA LABORATORY MEDICAL SPECIALTY CLINIC,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Tigbauan,Rizal-Tuguisan,GAVIETA MEDICAL AND LABORATORY CLINIC,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Guimbal,Brgy. Nanga,GILO MEDICAL CLINIC AND LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Leganes,Poblacion,G.P DIAGNOSTIC CENTER,Private,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 6,Iloilo,Santa Barbara,Brgy. Zone I,HEALTH ESSENTIAL LABORATORY AND DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Pavia,Pandac,HEALTHFORCE CLINICAL LABORATORY AND MEDICAL CLINICS COMPANY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Ajuy,Poblacion,"HEALTHLINK (ILOILO), INC",Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Balasan,Poblacion Norte,"HEALTHLINK (ILOILO), INC",Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Barotac Nuevo,Poblacion Ilaud,"HEALTHLINK (ILOILO), INC",Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Cabatuan,Brgy. Zone V,"HEALTHLINK (ILOILO), INC",Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Calinog,Libot,"HEALTHLINK (ILOILO), INC",Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Guimbal,Rizal-Tuguisan,"HEALTHLINK (ILOILO), INC",Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Zarraga,Poblacion Ilawod,HEALTHUB MEDICAL AND DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Pavia,Purok III,HEALTHSENSE LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Batad,Poblacion,ICTHUS CLINICAL LABORATORY,Private,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 6,Iloilo,Carles,Poblacion,ICTHUS CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Estancia,Poblacion Zone II,ICTHUS CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Janiuay,R. Armada,JANIUAY DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Igbaras,Brgy. 3 Poblacion,JEE MEDICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,San Miguel,Brgy. 8,JELAN MEDICAL LABORATORY,Private,Non-Institution based,Secondary,2/23/23,12/31/23
+REGION 6,Iloilo,San Joaquin,Purok 4,JMI ESSENTIAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Calinog,Simsiman,"KALINONG DIAGNOSTIC CENTER, INC.",Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Anilao,Poblacion,LHEALTH MEDICAL AND DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Balasan,Poblacion Norte,MEDICUS DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Banate,Merced,MEDICUS PHILIPPINES INC.,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Dumangas,Basa Mabini-Bonifacio,MEDICUS DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Janiuay,Don T. Lutero,MEDICUS DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Miagao,Baybay Norte,MEDICUS DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,3/15/23,12/31/23
+REGION 6,Iloilo,Oton,Poblacion South,MEDICUS DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,City of Passi,Poblacion Ilawod,MEDICUS DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Sara,Poblacion Market,MEDICUS DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Santa Barbara,Brgy. Zone III,MEDICUS DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Miagao,Baybay Norte,MIAG-AO HEALTH COOPERATIVE CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Pavia,Balabag,MEGACARE DIAGNOSTIC CENTER CO.,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,San Rafael,Poblacion,NORTHMED LABORATORYAND MEDICAL CLINIC,Private,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 6,Iloilo,Pototan,Rumbang,POTOTAN MEDILAB,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Pototan,Lopez-Jaena,POTOTAN MEDILAB-EXTENSION,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,City of Passi,Poblacion Ilawod,PRIMEVIEW MEDICAL SPECIALIST AND IMAGING CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Oton,Poblacion South,QUIKLAB DIAGNOSTIC INC.,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Dueñas,Capuling,RAD LAB CLINICAL DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Barotac Nuevo,Tabucan,REAL MEDICAL LABORATORY AND DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Miagao,Baybay Sur,REAL MEDICAL LABORATORY AND DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Janiuay,Aquino Nobleza East,RGT MEDICAL DIAGNOSTIC CLINIC,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Leganes,Poblacion,RIGHT LAB MEDICAL CLINIC & LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Alimodian,Bancal,RURAL HEALTHPLUS MEDICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,San Miguel,Brgy. I.,SAN MIGUEL DIAGNOSTICS INC.,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Dumangas,Basa Mabini-Bonifacio,SMG DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,City of Passi,Poblacion Ilawod,SPEEDCHECK DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Leon,Poblacion,STA. CATALINA DIAGNOSTIC LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Pavia,Ungka II,STATLAB INC.,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Pototan,Rumbang,STATLAB INC.,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Santa Barbara,Brgy. Zone I,STCAMILLUS MEDICAL DIAGNOSTIC SERVICES,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Oton,Poblacion South,ST. IGNATIUS CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Pavia,Aganan,ST. VINCENT DE PAUL DIAGNOSTIC CENTER AND MEDICAL CLINICS,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Tigbauan,Brgy. 6,SUZETTE MARIE HILADO-BANNO MEDICAL CLINIC AND LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Oton,Poblacion West,TABORNAL DIAGNOSTIC LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Lambunao,Poblacion Ilaud,TERESITA G. CASTIGADOR MEDICALCLINIC AND LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Tubungan,Zone II Poblacion,TREZ MARIAS MEDICAL CLINIC AND LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Banate,Zona Sur,"TRIAGE POLYCLINIC CENTER AND DIAGNOSTIC SERVICES, INC.",Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Barotac Viejo,Poblacion,"TRIAGE POLYCLINIC CENTER AND DIAGNOSTIC SERVICES, INC.",Private,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 6,Iloilo,Tigbauan,Brgy. 6,TRUSTLAB DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Janiuay,Jibolo,VILLAREAL MEDICAL CLINIC,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Pototan,Rumbang,VILLAREAL MEDICAL CLINIC,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,San Miguel,San Jose,VITAL CARE MEDICAL AND LABORATORY SERVICES,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Lambunao,Tranghawan,YOU FIRST MEDICAL AND DIAGNOSTIC CENTER INC.,Private,Non-Institution based,Secondary,2/14/23,12/31/23
+REGION 6,Iloilo,Sara,Poblacion Market,ZHINN DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,Javellana,AQUE HEART MEDICAL DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,Villa Anita,"ASCLEPIUS DRUGSTORE MEDICAL LAB & ALLIED SERVICES, CORP.",Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,Mohon,BIOFERA MEDICAL DIAGNOSTIC CLINIC,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,Roxas Village,CLINICA DE ILOILO,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,Roxas Village,CONFLUENCE MEDICAL LABORATORY AND DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,Lopez-Jaena,CPU CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,San Rafael,DEMIC LAB CORPORATION,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,Edganzon,FAMILY DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,2/7/23,12/31/23
+REGION 6,Iloilo,Iloilo City,Maria Clara,"FAMILY PLANNING ORGANIZATION OF THE PHILIPPINES COMMUNITY HEALTH CARE, BIRTHING CENTER AND LABORATORY INC.",Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,Arsenal Aduana,GAN CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,Rizal Pala-pala II,GCG DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,"Quezon, Arevalo",HEALTHNESS MEDICAL CLINIC AND LABORATORY CO.,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,Calumpang,HEALTHNESS HUB MEDICAL CLINIC AND LABORATORY CORPORATION,Private,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,"Bantud, Lapaz",HEALTHSCREEN CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,"Mcarthur, Lapaz",HEALTH CHECKDIAGNOSTIC LABORATOTY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,Desamparados,HEALTHFORCE MEDICAL SPECIALIST AND DIAGNOSTIC CO.,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,Tagbak,"HEALTHLINK (ILOILO), INC",Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,San Agustin,"HEALTHLINK (ILOILO), INC",Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,Roxas Village,ILOILO DOCTORS' CLINIC & LABORATORY SERVICES,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,San Rafael,ILOILO DOCTORS' CLINIC & LABORATORY SERVICES,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,Taal,ILOILO DOCTORS COLLEGE CLINICAL LABORATORY,Private,Non-Institution based,Tertiary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,Taal,"JOHN B. LACSON FOUNDATION, INC. DIAGNOSTIC CENTER",Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,San Nicholas,MD PALMES ULTRASOUND AND DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,"Libertad, Santa Isabel,",MEDICUS DIAGNOSTIC CENTER AND MEDICAL CLINICS,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,Brgy. Danao,MEDICUS DIAGNOSTIC CENTER- MAIN,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,Cubay,MEDICUS DIAGNOSTIC CENTER- MAIN,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,Abeto Arsenal Taft South,MEDICUS DIAGNOSTIC CENTER AND MEDICAL CLINICS,Private,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,"Brgy. Poblacion, Molo",MEDICUS DIAGNOSTIC CENTER AND MEDICAL CLINICS,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,Brgy. Ortiz,MEDICUS DIAGNOSTIC CENTER AND MEDICAL CLINICS,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,Our Lady of Lourdes,MIDWEST LAB,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,"Quezon, Arevalo",ML DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,Zamora- Melliza,PLAZA LIBERTAD MEDICAL SPECIALIST CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,Abeto Mirasol,PRIMEVIEW MEDICAL SPECIALIST AND IMAGING CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,San Rafael,SINGAPORE MEDICAL LABORATORIES INC.,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,Danao,SINGAPORE DIAGNOSTICS,Private,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,Balantang,ST. PEREGRIN CENTER FOR HEALTH,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,Our Lady of Fatima,"ULTRACARE DIAGNOSTIC CENTER, INC.",Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,Brgy. San Agustin,UNIVERSITY OF SAN AGUSTIN CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,Arsenal Aduana,VILLAREAL MEDICAL CLINIC,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Iloilo,Iloilo City,San Vicente,ZSO DIAGNOSTIC INC.,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bago City,Poblacion,ACM DIAGNOSTIC LABORATORY AND MEDICAL CLINIC,Private,Non-Institution based,Secondary,2/20/23,12/31/23
+REGION 6,Negros Occidental,Binalbagan,Progreso,BAS DIAGNOSTIC LABORATORY,Private,Non-Institution based,Secondary,3/3/23,12/31/23
+REGION 6,Negros Occidental,Binalbagan,San Pedro,BINALBAGAN MEDICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Manapla,Brgy. I-A,BIO CELLIAN CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Escalante City,Balintawak,BLOOD CHECK CLINICAL LABORATORY AND SERVICES,Private,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Sagay City,Poblacion II,BLOOD CHECK CLINICAL LABORATORY AND SERVICES,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Cadiz City,Brgy. 3,CADIZ CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Cauayan,Poblacion,CAUAYAN LABORATORY AND DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,3/10/23,12/31/23
+REGION 6,Negros Occidental,Hinigaran,Gargato,CHONA B. ABKILAN MEDICAL CLINIC AND LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Enrique B. Magalona,Poblacion I,EMVE LABORATORY & DIAGNOSTIC SERVICES,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,City of Silay,Brgy. V,FAIRR DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bago City,Ma-ao,GAHATON DIAGNOSTIC LABORATORY,Private,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Kabankalan City,Brgy. I,GAUDITE MEDICAL LABORATORY,Private,Non-Institution based,Primary,3/1/23,12/31/23
+REGION 6,Negros Occidental,Sagay City,Poblacion II,JAISARUS ACCUFAST MEDICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,City of Silay,Brgy. I,JDT BLESS3D DIAGNOSTIC LABORATORY,Private,Non-Institution based,Secondary,3/3/23,12/31/23
+REGION 6,Negros Occidental,Hinigaran,Brgy. III,JGN CLINIC AND LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Kabankalan City,Brgy. 5,JGN DIAGNOSTIC LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Valladolid,Tabao,JGN CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,,Brgy. XXI,JGN MEDICAL CLINIC AND LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Kabankalan City,Binicuil,JEAMAC DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,,Brgy. 2,JEAMAC DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bago City,Ma-ao,JPN MEDICAL LABORATORY AND SERVICES,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,,Brgy. 3,JUAN-JDIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Kabankalan City,Brgy. 6,KABANKALAN MEDICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Kabankalan City,Brgy. 2,LABTOLOGY CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,San Carlos City,Brgy. II,MCS DIAAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Cauayan,Poblacion,M C S 6 DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,La Carlota City,Brgy. III,MED-CHECK CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,,Brgy. III,MRG CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,City of Himamaylan,Brgy. IV,MYLAN MEDICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,,Brgy. XVI,NCD CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Sagay City,Poblacion I,NEUTRON DIAGNOSTIC LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Kabankalan City,Brgy. I,NEW BLOOD CHANNEL CLINICAL LABORATORY AND SERVICES,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Himamaylan City,Brgy. IV,PAS MEDICAL DIAGNOSTIC LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,La Castellana,Brgy. Robles,PLEBEIAN DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Cadiz City,Brgy. 4,PROMED DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,La Carlota City,Brgy. I,QUALITY POINT MEDICAL LABORATORY,Private,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 6,Negros Occidental,,Brgy. IV,QPL DIAGNOSTICS AND CLINIC,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,San Carlos City,Brgy. 2,QUBE DIAGNOSTIC LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,,Brgy. 3,REED WING MEDICAL CLINIC AND LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Cauayan,Poblacion,RELIATEST MEDICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Kabankalan City,Brgy. 3,SHILOH CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,,Bacuyangan,SHILOH CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,City of Silay,Brgy. 1,SILAY DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Kabankalan City,Brgy. 3,SOUTH HEALTH CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Cadiz City,Brgy. 3,SPEERS DIAGNOSTIC LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Victorias City,Brgy. II,SAINT JUDE MEDICAL & CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Talisay City,Zone 6,STATLAB DIAGNOSTIC LABORATORY,Private,Non-Institution based,Secondary,1/3/23,12/31/23
+REGION 6,Negros Occidental,Talisay City,Zone 6,TALISAY WELLNESS AND DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Talisay City,Zone 4-A,THE NEW BLOOD CHANNEL CLINICAL LABORATORY AND SERVICES,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Cadiz City,Brgy. 3,UNIPOINT CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bago City,Poblacion,VILLANUEVA CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Kabankalan City,Brgy. I,VILLANUEVA CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,La Carlota City,Brgy. III,VILLANUEVA CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Sagay City,Paraiso,VITALIS DIAGNOSTIC CLINIC,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. 5,ACCU-CHECK CLINICALLABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Mansilingan,ACCUMAINE CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. 17,ALRIJG MEDICAL CLINIC AND LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. 5,AVENTUS MEDICAL CARE INC.,Private,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. 5,BACOLOD DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy.9,BAS DIAGNOSTIC LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Granada,BIOPRO HEALTH AND LABORATORY SERVICES CORPORATION,Private,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. 5,COLEGIO SAN AGUSTIN - BACOLOD CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. 36,GUMAHIN-FLORES DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Singcang - Aiport,HEALBERG LIFESTYLE MEDICAL CENTER AND CLINICS,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. Villamonte,HEALTH HORIZON DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. 18,"HOSPITAL AVENUE DIAGNOSTIC CENTER, INC.",Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. Alijis,INNOVEIN MEDICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. 20,J.C.L. DIAGNOSTIC LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. Handumanan,JT HANDUMANAN DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. Sum-ag,LCM MEDICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. Villamonte,MCS DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. 9,MCS 3 DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. Taculing,MCS 4 DIAGNOSTIC CENTER,Private,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. 33,"MEDICAL ASSOCIATES DIAGNOSTIC CENTER, INC.",Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. Villamonte,MEDI-LINK CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. Villamonte,MP ANALYSIS & LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. Alijis,NEW NORM DIAGNOSTIC LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. Villamonte,ORDOÑEZ CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. 23,PENTAMED DIAGNOSTICS AND CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. 2,"Q DIAGNOSTIC CENTER, INC.",Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. 18,RED SHIELD CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. 33,SERVIAMUS MEDICAL CLINIC AND LABORATORY,Private,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. Mandalagan,SINGAPORE DIAGNOSTICS,Private,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. Mandalagan,"ST. CAMILLUS PREMIUM HEALTHCARE SERVICES, INC.",Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. Handumanan,ST. EZEKIEL MORENO CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. 40,TACLOBOS MEDICAL LABORATORY,Private,Non-Institution based,Primary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. Villamonte,THERA PEIA MEDICAL LABORATORY & MEDICAL CLINIC COMPANY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. 14,THE NEW BLOOD CHANNEL CLINICAL LABORATORY AND SERVICES,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. 12,"THE RIVERSIDE MEDICAL CENTER, INC.",Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. 40,UNO - RECOLETOS CLINICAL LABORATORY,Private,Non-Institution based,Secondary,1/1/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. 4,VILLANUEVA CLINICAL LABORATORY,Private,Non-Institution based,Tertiary,1/1/23,12/31/23
+REGION 6,Guimaras,Nueva Valencia,Brgy. Concordia Sur,JMB LABORATORY AND DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,4/14/23,12/31/23
+REGION 6,Iloilo,Concepcion,Brgy. Poblacion,CLINICALAB MEDGROUP INC.,Private,Non-Institution based,Primary,4/26/23,12/31/23
+REGION 6,Iloilo,Iloilo City,Brgy. Taft North,"THE MEDICAL CITY ILOILO HOSPITAL, INC.",Private,Non-Institution based,Secondary,4/28/23,12/31/23
+REGION 6,Negros Occidental,Talisay City,Brgy. Zone 12,CLINICAL LIFE MEDICAL AND LABORATORY SERVICES,Private,Non-Institution based,Primary,5/12/23,12/31/23
+REGION 6,Negros Occidental,Talisay City,Brgy. Zone 12-A,SULTAN'S HAVEN DIAGNOSTIC CENTER,Private,Non-Institution based,Secondary,5/16/23,12/31/23
+REGION 6,Iloilo,Calinog,Brgy. Poblacion,"S.W.I.F.T DIAGNOSTIC CENTER, INC.",Private,Non-Institution based,Secondary,6/5/23,12/31/23
+REGION 6,Iloilo,Iloilo City,Brgy. Sampaguita,STAT LAB INC.,Private,Non-Institution based,Secondary,6/13/23,12/31/23
+REGION 6,Negros Occidental,Bacolod City,Brgy. Mansilingan,CURARE SERVIRE INC.,Private,Non-Institution based,Primary,6/15/23,12/31/23
+REGION 6,Iloilo,Iloilo City,Brgy. Ortiz,"CENTRO ILOILO DIAGNOSTIC LABORATORY AND MEDICAL CLINIC, INC.",Private,Non-Institution based,Primary,6/19/23,12/31/23
+REGION 6,Negros Occidental,City of Silay,Brgy. 5,FAIRR DIAGNOSTIC CENTER,Private,Non-Institution based,Primary,6/19/23,12/31/23
+REGION 6,Capiz,Roxas City,Brgy. Tanque,E-HEADZ HEALTHLINK,Private,Non-Institution based,Primary,6/23/23,12/31/23
